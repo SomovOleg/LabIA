@@ -1,0 +1,73 @@
+15:50:16 Create a new board with 5 x 5 dimension
+15:50:16 Try to added a block on 4x0
+15:50:16 Place new element on 4x0
+15:50:16 Add 5
+15:50:16 Try to added a block on 4x1
+15:50:16 Place new element on 4x1
+15:50:16 Add 2
+15:50:16 Try to added a block on 4x2
+15:50:16 Place new element on 4x2
+15:50:16 Add 3
+15:50:16 Try to added a block on 4x3
+15:50:16 Place new element on 4x3
+15:50:16 Add 1
+15:50:16 Try to added a block on 4x4
+15:50:16 Place new element on 4x4
+15:50:16 Add 11
+15:50:16 Try to added a block on 3x0
+15:50:16 Place new element on 3x0
+15:50:16 Add 10
+15:50:16 Try to added a block on 2x0
+15:50:16 Place new element on 2x0
+15:50:16 Add 31
+15:50:16 Try to added a block on 3x2
+15:50:16 Place new element on 3x2
+15:50:16 Add 12
+15:50:16 Try to added a block on 3x4
+15:50:16 Place new element on 3x4
+15:50:16 Add 21
+15:50:16 Render a board
+15:50:30 Try to put 31 block on 12 block
+15:50:30 Try to detect top on 31 coordinates
+15:50:30 The coordinate is 0 column 2 row
+15:50:30 Try to detect top on 12 coordinates
+15:50:30 The coordinate is 2 column 3 row
+15:50:30 Try to eliberate block on 0X2 coordinates
+15:50:30 Try to eliberate block on 2X3 coordinates
+15:50:30 Try to put block on the top
+15:50:30 Try to detect top on 2 column
+15:50:30 The top is 3 element
+15:50:30 Change block on 0X2 and 2X2 with places 
+15:50:30 Take block from 2X2
+15:50:30 Change block from 2X0
+15:50:30 Put block on  0X2
+15:50:30 Success!
+15:50:30 Render a board
+15:50:33 Render a board
+15:50:36 Try to put 5 block on 31 block
+15:50:36 Try to detect top on 5 coordinates
+15:50:36 The coordinate is 0 column 4 row
+15:50:36 Try to detect top on 31 coordinates
+15:50:36 The coordinate is 2 column 2 row
+15:50:36 Try to eliberate block on 0X4 coordinates
+15:50:36 Try to detect the current top of 0
+15:50:36 Try to detect top on 0 column
+15:50:36 The top is 3 element
+15:50:36 Target top is 1
+15:50:36 Try to put block on the top
+15:50:36 Try to detect top on 1 column
+15:50:36 The top is 4 element
+15:50:36 Change block on 0X3 and 1X3 with places 
+15:50:36 Take block from 3X1
+15:50:36 Change block from 3X0
+15:50:36 Put block on  0X3
+15:50:36 Try to eliberate block on 2X2 coordinates
+15:50:36 Try to put block on the top
+15:50:36 Try to detect top on 2 column
+15:50:36 The top is 2 element
+15:50:36 Change block on 0X4 and 2X1 with places 
+15:50:36 Take block from 1X2
+15:50:36 Change block from 4X0
+15:50:36 Put block on  0X4
+15:50:36 Success!
+15:50:36 Render a board
